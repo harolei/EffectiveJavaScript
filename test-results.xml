@@ -1,13 +1,14 @@
 <?xml version="1.0"?>
 <testsuites>
-  <testsuite name="Chrome 26.0 (Mac)" package="undefined" timestamp="2013-04-10T14:48:53" id="0" hostname="bowen-huang.local" tests="8" errors="0" failures="0" time="0.002">
+  <testsuite name="Chrome 26.0 (Mac)" package="undefined" timestamp="2013-04-10T16:05:39" id="0" hostname="bowen-huang.local" tests="9" errors="0" failures="0" time="0.004">
     <properties>
       <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.43 Safari/537.31"/>
     </properties>
-    <testcase name="should create User successfuly." time="0.002" classname="Chrome 26.0 (Mac).item34"/>
+    <testcase name="should create User successfuly." time="0.003" classname="Chrome 26.0 (Mac).item34"/>
     <testcase name="should use prototype to share method" time="0" classname="Chrome 26.0 (Mac).item34"/>
     <testcase name="should get unexpected data" time="0" classname="Chrome 26.0 (Mac).item36"/>
     <testcase name="should get correct data" time="0" classname="Chrome 26.0 (Mac).item36"/>
+    <testcase name="space" time="0.001" classname="Chrome 26.0 (Mac).item38"/>
     <testcase name="should run jasmine testing successfully" time="0" classname="Chrome 26.0 (Mac).Item44"/>
     <testcase name="should get Object property when set prototype to null" time="0" classname="Chrome 26.0 (Mac).Item44"/>
     <testcase name="should get null property when using Object.getPrototypeOf to set null prototype" time="0" classname="Chrome 26.0 (Mac).Item44"/>
