@@ -1,19 +1,18 @@
 <?xml version="1.0"?>
 <testsuites>
-  <testsuite name="Chrome 26.0 (Mac)" package="undefined" timestamp="2013-04-09T17:31:09" id="0" hostname="bowen-huang.local" tests="6" errors="0" failures="0" time="0.003">
+  <testsuite name="Chrome 26.0 (Mac)" package="undefined" timestamp="2013-04-10T14:48:53" id="0" hostname="bowen-huang.local" tests="8" errors="0" failures="0" time="0.002">
     <properties>
       <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.43 Safari/537.31"/>
     </properties>
-    <testcase name="should create User successfuly." time="0.003" classname="Chrome 26.0 (Mac).item34"/>
+    <testcase name="should create User successfuly." time="0.002" classname="Chrome 26.0 (Mac).item34"/>
     <testcase name="should use prototype to share method" time="0" classname="Chrome 26.0 (Mac).item34"/>
+    <testcase name="should get unexpected data" time="0" classname="Chrome 26.0 (Mac).item36"/>
+    <testcase name="should get correct data" time="0" classname="Chrome 26.0 (Mac).item36"/>
     <testcase name="should run jasmine testing successfully" time="0" classname="Chrome 26.0 (Mac).Item44"/>
     <testcase name="should get Object property when set prototype to null" time="0" classname="Chrome 26.0 (Mac).Item44"/>
     <testcase name="should get null property when using Object.getPrototypeOf to set null prototype" time="0" classname="Chrome 26.0 (Mac).Item44"/>
     <testcase name="use __proto__" time="0" classname="Chrome 26.0 (Mac).Item44"/>
-    <system-out><![CDATA[Chrome 26.0 (Mac) ERROR
-	Uncaught SyntaxError: Unexpected token =
-	at /Users/twer/sourcecode/EffectiveJavaScript/spec/item34.spec.js:41
-
+    <system-out><![CDATA[
 ]]></system-out>
     <system-err/>
   </testsuite>
