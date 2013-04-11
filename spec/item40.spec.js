@@ -35,7 +35,7 @@ describe("item34", function () {
 
         Dir.prototype.length = function(){
             return this.entries.length;
-        }
+        };
 
         var dir = new Dir('c:\dev', ['path1', 'path2', 'path3']);
         expect(dir.entries.length).toBe(3);
