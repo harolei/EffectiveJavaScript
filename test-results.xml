@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
 <testsuites>
-  <testsuite name="Chrome 26.0 (Mac)" package="undefined" timestamp="2013-04-11T15:20:39" id="0" hostname="bowen-huang.local" tests="14" errors="0" failures="0" time="0.007">
+  <testsuite name="Chrome 26.0 (Mac)" package="undefined" timestamp="2013-04-12T05:42:38" id="0" hostname="bowen-huang.local" tests="15" errors="0" failures="0" time="0.008">
     <properties>
       <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.43 Safari/537.31"/>
     </properties>
-    <testcase name="should create User successfuly." time="0.003" classname="Chrome 26.0 (Mac).item34"/>
+    <testcase name="should get prototype" time="0.004" classname="Chrome 26.0 (Mac).item30"/>
+    <testcase name="should create User successfuly." time="0" classname="Chrome 26.0 (Mac).item34"/>
     <testcase name="should use prototype to share method" time="0.001" classname="Chrome 26.0 (Mac).item34"/>
     <testcase name="should get unexpected data" time="0" classname="Chrome 26.0 (Mac).item36"/>
     <testcase name="should get correct data" time="0.001" classname="Chrome 26.0 (Mac).item36"/>
@@ -27,6 +28,87 @@
 ,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
 ,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
 ,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: null
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: null
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: null
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: null
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: null
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: {}
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: {}
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: 'name:bowen\nage:26\n'
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: 'name:bowen\'r\nage:26\n'
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: 'name:bowen\'\r\nage:26\n'
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: 'name:bowen\r\nage:26\n'
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: 'name:bowen\nage:26\n'
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: 'name:bowen\nage:26\n'
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: 'name:bowen\nage:26\n'
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: null
+,Chrome 26.0 (Mac) LOG: {}
+,Chrome 26.0 (Mac) LOG: null
+,Chrome 26.0 (Mac) LOG: {}
+,Chrome 26.0 (Mac) LOG: null
+,Chrome 26.0 (Mac) LOG: {}
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: 'function'
+,Chrome 26.0 (Mac) LOG: 'object'
+,Chrome 26.0 (Mac) LOG: 'function'
+,Chrome 26.0 (Mac) LOG: 'object'
+,Chrome 26.0 (Mac) LOG: 'undefined'
+,Chrome 26.0 (Mac) LOG: 'object'
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: 'function'
+,Chrome 26.0 (Mac) LOG: 'object'
+,Chrome 26.0 (Mac) LOG: 'function'
+,Chrome 26.0 (Mac) LOG: 'object'
+,Chrome 26.0 (Mac) LOG: 'undefined'
+,Chrome 26.0 (Mac) LOG: 'object'
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: 'function'
+,Chrome 26.0 (Mac) LOG: 'object'
+,Chrome 26.0 (Mac) LOG: 'function'
+,Chrome 26.0 (Mac) LOG: 'testing'
+,Chrome 26.0 (Mac) LOG: 'object'
+,Chrome 26.0 (Mac) LOG: 'undefined'
+,Chrome 26.0 (Mac) LOG: 'object'
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: 'function'
+,Chrome 26.0 (Mac) LOG: 'object'
+,Chrome 26.0 (Mac) LOG: 'function'
+,Chrome 26.0 (Mac) LOG: 'testing'
+,Chrome 26.0 (Mac) LOG: 'object'
+,Chrome 26.0 (Mac) LOG: 'undefined'
+,Chrome 26.0 (Mac) LOG: 'object'
+,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
+,Chrome 26.0 (Mac) LOG: 'function'
+,Chrome 26.0 (Mac) LOG: 'object'
+,Chrome 26.0 (Mac) LOG: 'function'
+,Chrome 26.0 (Mac) LOG: 'testing'
+,Chrome 26.0 (Mac) LOG: 'object'
+,Chrome 26.0 (Mac) LOG: 'object'
+,Chrome 26.0 (Mac) LOG: 'undefined'
+,Chrome 26.0 (Mac) LOG: 'object'
 ,Chrome 26.0 (Mac) LOG: '1.0:[object Object]\n2.1:[object Object]\n3.2:[object Object]\n'
 
 ]]></system-out>

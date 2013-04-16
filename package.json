@@ -1,0 +1,23 @@
+{
+  "name": "EffectiveJavaScript",
+  "version": "0.1.0",
+  "description": "effective javascript codes",
+  "main": "JasmineAdapter-1.1.2.js",
+  "scripts": {
+    "test": "karma start "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/huangbowen521/EffectiveJavaScript.git"
+  },
+  "keywords": [
+    "effective"
+  ],
+  "author": "bowen",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "dedcd0d9404f9be8df0e99b7507e77b0e713d541",
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  }
+}
